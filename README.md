@@ -2,5 +2,5 @@
 - 👀 I’m interested in Econometrics, Options Pricing, Times Series Models, Markov Models, Game Theory, Political Economy
 - 🌱 I’m currently learning abour Time Series ARIMA Models
 - 💞️ I’m looking to collaborate on anything economics/political economy/finance related
-- 😄 Pronouns: He/Him/They/Them
+- 😄 Pronouns: He/Him/They
 
