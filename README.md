@@ -32,11 +32,11 @@
 
 <picture>
     <source
-      srcset="https://github.com/BowenGreen/github-readme-stats&show_icons=true&theme=dark"
+      srcset="https://github.com/BowenGreen/github-readme-stats&theme=dark"
       media="(prefers-color-scheme: dark)" 
         />
 <source
-      srcset="https://github.com/BowenGreen/github-readme-stats&show_icons=true"
+      srcset="https://github.com/BowenGreen/github-readme-stats"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
   <img src="https://github-readme-stats.vercel.app/api?username=BowenGreen&rank_icon=github&theme=dark#gh-dark-mode-only&custom_title=Statistics&card_width=320" />
