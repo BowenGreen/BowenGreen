@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BowenGreen
-- 👀 I’m interested in Econometrics, Options Pricing, Times Series Models, Markov Models, Game Theory, Political Economy
+- 👀 I’m interested in Econometrics, Statistical Arbitrage, Cryptography, Markov Models, Game Theory, Political Economy
 - 🌲 I’m currently learning about Time Series ARIMA Models
 - 🖥️ Statistical programming, Maximizing ⍺
-- 🧠 I’m looking to collaborate on anything economics/political economy/finance related
+- 🧠 I’m looking to collaborate on anything political economy/economics related
 - 👾 Hobbies: Catan, Poker, Go, Chess, Hiking
 
 
