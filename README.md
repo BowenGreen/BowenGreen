@@ -10,5 +10,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BowenGreen&rank_icon=github&theme=dark#gh-dark-mode-only&custom_title=Statistics&card_width=320" />
 </a>
 <a href="https://github.com/NickCH-K/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NickCH-K&theme=dark#gh-dark-mode-only&layout=compact&hide_progress=true&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NickCH-K&theme=dark&layout=compact&hide_progress=true&langs_count=8&card_width=320" />
 </a>
