@@ -19,5 +19,5 @@ custom_title
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github&theme=dark&custom_title=Statistics" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
