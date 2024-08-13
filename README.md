@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BowenGreen (He/Him/They)
 - 👀 I’m interested in Econometrics, Game Theory, Political Economy, Cryptography, and Machine Learning
 - 🌲 I’m currently learning about Time Series ARIMA Models
-- 🖥️ Statistical programming, Maximizing ⍺
+- 🖥️ Statistical programming, maximizing ⍺
 - 🧠 I’m looking to collaborate on anything Political Economy/Economics related
 - 👾 Hobbies: Catan, Poker, Go, Chess, Hiking
 
