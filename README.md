@@ -6,8 +6,8 @@
 - 👾 Hobbies: Catan, Poker, Go, Chess, Hiking
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github&theme=dark&custom_title=Statistics&card_width=250" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github&theme=dark&custom_title=Statistics&card_width=300" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=dark&layout=compact&hide_progress=true&langs_count=8&card_width=250" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=dark&layout=compact&hide_progress=true&langs_count=8&card_width=300" />
 </a>
