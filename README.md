@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BowenGreen
+- 👋 Hi, I’m @BowenGreen (He/Him/They)
 - 👀 I’m interested in Econometrics, Statistical Arbitrage, Cryptography, Markov Models, Game Theory, Political Economy
 - 🌲 I’m currently learning about Time Series ARIMA Models
 - 🖥️ Statistical programming, Maximizing ⍺
