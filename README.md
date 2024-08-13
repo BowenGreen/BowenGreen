@@ -15,7 +15,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=BowenGreen&rank_icon=github&theme=light&custom_title=Statistics&card_width=320"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BowenGreen&rank_icon=github&theme=dark#gh-dark-mode-only&custom_title=Statistics&card_width=320" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=BowenGreen&rank_icon=github&theme=dark#gh-dark-mode-only&custom_title=Statistics&card_width=320" />
   </picture>
 </a>
 <a href="https://github.com/NickCH-K/convoychat">
