@@ -5,10 +5,6 @@
 - 🧠 I’m looking to collaborate on anything Political Economy/Economics related
 - 👾 Hobbies: Catan, Poker, Go, Chess, Hiking
 
-
-
-
-
 <a href="https://github.com/BowenGreen/github-readme-stats">
   <picture>
     <source
@@ -22,7 +18,6 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BowenGreen&rank_icon=github&theme=dark#gh-dark-mode-only&custom_title=Statistics&card_width=320" />
   </picture>
 </a>
-
 <a href="https://github.com/NickCH-K/convoychat">
   <picture>
     <source
