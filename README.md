@@ -5,10 +5,7 @@
 - 😄 Pronouns: He/Him/They
 - 👾 Hobbies: Catan, Poker, Go, Chess, Hiking
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
