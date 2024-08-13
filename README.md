@@ -9,7 +9,7 @@
 
 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dark&rank_icon=github&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
