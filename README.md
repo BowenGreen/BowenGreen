@@ -4,6 +4,7 @@
 - 🖥️ Statistical programming, maximizing ⍺
 - 🧠 I’m looking to collaborate on anything Political Economy/Economics related
 - 👾 Hobbies: Catan, Poker, Go, Chess, Hiking
+- 📬 Message me via Bloomberg Terminal
 
 <a href="https://github.com/BowenGreen/github-readme-stats">
   <picture>
