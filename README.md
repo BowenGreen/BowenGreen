@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BowenGreen (He/Him/They)
-- 👀 I’m interested in Econometrics, Game Theory, Political Economy, American Politics, and Machine Learning
+- 👀 I’m interested in Econometrics, Game Theory, Political Economy, American Politics, and Accountablity
 - 🌲 I’m currently learning about ARIMA Models
 - 🖥️ Statistical programming, maximizing ⍺
-- 🧠 I’m looking to collaborate on anything Political Economy/Economics related
+- 🧠 I’m looking to collaborate on anything Political Economy/American Politics related
 - 👾 Hobbies: Catan, Poker, Go, Chess, Hiking
 - 📬 Message me via Terminal/IB Chat
 
